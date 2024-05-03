@@ -1,0 +1,170 @@
+1	 Print Statement 
+2	 Print Statement with EscapeSequence 
+3	 Print Statement with gotoxy
+4	 Simple-if
+5	 Simple-if-block
+6	 if-else-ex1
+7	 if-else-ex2
+8	 if-else-ex3
+9        nested-if-ex1
+10	 nested-if-ex2
+11	 nested-if-ex3
+12	 nested-if-ex4
+13      write a program to print natural numbers between 0 to 100
+14	 write a program to print even numbers between 0 to 100
+15     	write a program to print odd numbers between 0 to 100
+16	 write a program to print  sum of natural numbers between 0 to 10
+17	 write a program to print  sum of even numbers between 0 to 10
+18	 write a program to print  sum of odd numbers between 0 to 10
+19	write a program to print natural numbers between two integers
+20	write a program to print even numbers between two integers
+21	write a program to print odd numbers between two integers
+22	 write a program to print  sum of natural numbers between two integers
+23	 write a program to print  sum of even numbers between two integers
+24	 write a program to print  sum of odd numbers between two integers
+25	 write a program to accept any integer and print its count of digits.
+26	 write a program to accept any integer and print its sum of digits.
+27	 write a program to accept any integer and print its reverse of digits.
+28	 write a program to accept any integer and print its biggest digit.
+29	 write a program to accept any integer and print its smallest digit.
+30	Swapping with extra Variables
+31	Swapping without extra Variables
+32	  lucky number program
+33	 write a program to accept any integer and  print math.table.
+34	 write a program to accept start & end numbers and print its math.table.
+35	 writte a program to accept start& end ,start&end and print its math table.
+36	 conversion from ascii to binary
+37	Display Right most digit of a given integer
+38	Smallest of given three integers
+39	Left most digit from given integer
+40	cotient and remainder value of given integer
+41	convert from character to integer
+42	type casting example 1
+43	type casting example 2
+44	Find the area and circumference of a circle
+45	Interest Calculations ( model - 1)
+46	Interest Calculations ( model  -2)
+47	 
+48	Temparature Conversion
+49	Income Tax Calculation
+50	Roots of Quadratic Equation
+51	(a+b)2
+52	Sum=1-x……
+53	printing Fibanacci
+54	Checking whether given number is fibanacci or not
+55	Prime Numbers
+56	Prime Numbers between two integers
+57	Palimdrome Numbers
+58	Palimdrome Numbers  between two integers
+59	Factorial Numbers
+60	Factorial Numbers between two integers
+61	Aramstring Number
+62	Aramstring Number between two integers
+63	Strong Numbers
+64	Strong Numbers between two integers
+65	 scrolling text  
+66	 scrolling text from left to right and right to left
+67	 *.**,***,****
+68	switch case example 1
+69	switch case example 2
+70	do-while Example program  1
+71	do-while Example program  2
+72	do-while Example program  3
+73	do-while Example program  4
+74	do-while Example program  5
+75	break and continue example
+76	Storage Class Example
+77	Program to print numbers in words
+78	Find largent of two numbers using conditional operator
+79	Bit wise operators examples
+80	x=12+22+32….
+81	Program using strcpy
+82	Program using strcmp
+83	Program using strcat
+84	Program using strlwr
+85	Program using strupr
+86	Program using strlen
+87	programn using strrev
+88	Program using strncpy
+89	Program using strncmp
+90	Program using strncat
+91	Program using  some string  functions
+92	Program using  some string  "n" functions
+93	Programs using logic  of  string functions
+94	I/o Functions : getc, getch,getchar, gets, putc,putch,putchar,puts
+95	Find  
+96	Replace
+97	Initializing  Dimensional Array
+98	Reading and Printing One Dimensional Array  -  Number
+99	Reading and Printing One Dimensional Array  -  String
+100	Reading and Printing  two Dimensional Array  - Number
+101	Reading and Printing  two Dimensional Array  -  String
+102	sum of  elements using arrays
+103	sum of even numbers in array elements
+104	Student marks using arrays
+105	Matrix addition  
+106	Matrix Multiplication
+107	Pyramid Programs
+108	Reverse pyramid program
+109	sorting
+110	Searching
+111	matrix transpose
+112	Printing Maximum and Minimum Elements in Array
+113	functions without parameters and without return values
+114	functions without parameters and with return values
+115	functions with parameters and without return values
+116	functions with parameters and with return values
+117	call by reference ex :1
+118	call by reference ex :2
+119	 function passing array arguments
+120	checking prime number using function
+121	printing prime numbers between two integers
+122	checking palimdrome number using function
+123	chekcing palimdrome word
+124	printing factorial values using function
+125	add,sub,mul functions using do-while
+126	math.h functions 
+127	creating user defined header file
+128	Fibanacii Series using function
+129	checking whether it is in  fibanacii series or not 
+130	Initialization of structure
+131	A Program to initialize and display the details
+132	 A Program to initialize and display  as object
+133	A Program to initialize and display the  details ( global declaration)
+134	compare two structure 
+135	copy structure to its variable.
+136	Arrays  with structures 
+137	Structures and functions
+138	A Program to pass Structurers as function arguments
+139	nested structure
+140	Pointers to Structurers
+141	factorial  using Recursive 
+142	Fibanacii using Recursive
+143	Union Example model1
+144	union Example model2
+145	bitfields
+146	sizeof Example
+147	typedef
+148	Dynamic Memory Allocation (malloc )
+149	Dynamic Memory Allocation ( calloc)
+150	c-pre-processor
+151	c-pre-processor
+152	c-pre-processor
+153	c-pre-processor
+154	c-pre-processor
+155	c-pre-processor
+156	command line arguments
+157	Union Example model1
+158	union Example model2
+159	bitfields
+160	sizeof Example
+161	typedef
+162	Dynamic Memory Allocation (malloc )
+163	Dynamic Memory Allocation ( calloc)
+164	c-pre-processor
+165	c-pre-processor
+166	c-pre-processor
+167	c-pre-processor
+168	c-pre-processor
+169	c-pre-processor
+170	command line arguments
